@@ -1,0 +1,129 @@
+nav {
+  
+ 
+    background-color: #4e3a57;
+      
+     
+    color: #fff;
+      
+     
+    display: flex;
+      
+     
+    justify-content: space-between;
+      
+     
+    padding: 20px;
+    }
+
+    h2 {
+        text-align: center;
+    }
+    
+    nav ul {
+      
+     
+    list-style: none;
+      
+     
+    margin: 0;
+      
+     
+    padding: 0;
+      
+     
+    display: flex;
+    }
+    
+    nav li {
+      
+     
+    margin-left: 20px;
+    }
+    
+    nav a {
+      
+     
+    color: #fff;
+      
+     
+    text-decoration: none;
+      
+     
+    font-size: 18px;
+    }
+    
+    .hero {
+      
+     
+    display: flex;
+      
+     
+    justify-content: center;
+      
+     
+    align-items: center;
+      
+     
+    flex-direction: column;
+      
+     
+    height: 80vh;
+    }
+    
+    .hero img {
+      
+     
+    max-width: 100%;
+      
+     
+    max-height: 100%;
+    }
+    
+    form {
+      
+     
+    display: flex;
+      
+     
+    flex-direction: column;
+      
+     
+    align-items: center;
+      
+     
+    margin-top: 20px;
+    }
+    
+    form input,
+    form button {
+      
+     
+    margin-top: 10px;
+    }
+    
+    .redes-sociales {
+      
+     
+    display: flex;
+      
+     
+    justify-content: center;
+      
+     
+    margin-top: 20px;
+    }
+    
+    .redes-sociales img {
+      
+     
+    width: 50px;
+      
+     
+    height: 50px;
+      
+     
+    margin: 0 10px;
+    }
+    
+    
